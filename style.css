@@ -1,0 +1,37 @@
+.p1 {
+    color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.p2 {
+    color: red;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.p3 {
+    color: goldenrod;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.a {
+    font-size: xx-large;
+    color: black;
+}
+
+
+.b {
+    font-size: xx-large;
+    color: red;
+}
+
+
+.c {
+    font-size: xx-large;
+    color: goldenrod;
+}
